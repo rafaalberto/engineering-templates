@@ -1,5 +1,8 @@
 # 🧰 Engineering Templates
 
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Templates](https://img.shields.io/badge/Templates-Engineering%20Toolkit-blue)
+
 A collection of reusable templates, configurations, and best-practice tooling for backend and platform engineering.  
 This repository centralizes CI workflows, documentation templates, code quality standards, and security configurations that can be applied across multiple projects.
 
@@ -19,5 +22,3 @@ The goal of this repository is to serve as a **personal engineering toolkit**, p
 - Docker & development environment templates
 
 This makes it easy to bootstrap new repositories quickly while keeping them aligned with modern engineering best practices.
-
----
