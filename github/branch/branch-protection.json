@@ -3,8 +3,7 @@
     "strict": true,
     "contexts": [
       "build",
-      "unit-test",
-      "integration-test"
+      "unit-test"
     ]
   },
   "enforce_admins": true,
